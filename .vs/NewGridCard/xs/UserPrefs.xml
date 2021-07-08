@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7A4085B2-E8AC-4FE4-A91C-2D29A003004A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewGridCard/Pages/_Host.cshtml">
+    <Files>
+      <File FileName="NewGridCard/Shared/MainLayout.razor" Line="12" Column="79" />
+      <File FileName="NewGridCard/Shared/NavMenu.razor" Line="1" Column="1" />
+      <File FileName="NewGridCard/Pages/Index.razor" Line="42" Column="7" />
+      <File FileName="NewGridCard/Pages/_Host.cshtml" Line="20" Column="23" />
+      <File FileName="NewGridCard/wwwroot/Style.css" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NewGridCard" expanded="True">
+            <Node name="NewGridCard" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="_Host.cshtml" selected="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NewGridCard PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
